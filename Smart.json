@@ -1,0 +1,52 @@
+[
+    {
+        "id": "one",
+        "urlImg": "./imgs/product-01.png",
+        "name": "Airpods",
+        "price": 100,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },
+    {
+        "id": "two",
+        "urlImg": "./imgs/product-02.png",
+        "name": "Airpods",
+        "price": 150,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },    {
+        "id": "three",
+        "urlImg": "./imgs/product-03.png",
+        "name": "Airpods",
+        "price": 250,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },    {
+        "id": "four",
+        "urlImg": "./imgs/product-04.png",
+        "name": "Airpods",
+        "price": 300,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },    {
+        "id": "five",
+        "urlImg": "./imgs/product-05.png",
+        "name": "Headphone",
+        "price": 70,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },    {
+        "id": "sex",
+        "urlImg": "./imgs/product-06.png",
+        "name": "Headphone",
+        "price": 120,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },    {
+        "id": "seven",
+        "urlImg": "./imgs/product-07.png",
+        "name": "Headphone",
+        "price": 95,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    },    {
+        "id": "eight",
+        "urlImg": "./imgs/landing page.png",
+        "name": "Headphone",
+        "price": 110,
+        "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+    }
+]
